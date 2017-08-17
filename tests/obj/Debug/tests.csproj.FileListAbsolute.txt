@@ -1,0 +1,10 @@
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\tests.dll
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\tests.pdb
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\CalculatorKata.exe
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\nunit.framework.dll
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\CalculatorKata.pdb
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\CalculatorKata.exe.config
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\bin\Debug\nunit.framework.xml
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\obj\Debug\tests.csprojResolveAssemblyReference.cache
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\obj\Debug\tests.dll
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\tests\obj\Debug\tests.pdb

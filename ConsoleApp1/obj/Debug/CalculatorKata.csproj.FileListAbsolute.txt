@@ -1,0 +1,5 @@
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CalculatorKata.exe.config
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CalculatorKata.exe
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CalculatorKata.pdb
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CalculatorKata.exe
+c:\users\miranda\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CalculatorKata.pdb
